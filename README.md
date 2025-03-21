@@ -1,6 +1,6 @@
 # Group-Project-4610
 Individual Submission Note:
-This is my individual submission for MIST 4610 Group Project 1 - Christo Gerald
+This is my individual submission for MIST 4610 Group Project 1 - Sneha Neelagaru
 # Pickle Ball Club Relational Database
 
 - The task is to model and build a relational database for a pickleball club. This club offers lessons, has various levels of memberships, allows court reservations, and participates in tournaments. Our goal is to precisely model these relationships, create sample data, and populate the entities and their attributes accordingly. We aim to execute functional queries on this data to gain valuable business insights into the club and its activities. 
